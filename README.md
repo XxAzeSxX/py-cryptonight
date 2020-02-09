@@ -1,4 +1,4 @@
-# Python CryptoNight implementation
+# Python CryptoNight implementation W10 Compitable
 
 [![Build Status](https://travis-ci.org/ph4r05/py-cryptonight.svg?branch=master)](https://travis-ci.org/ph4r05/py-cryptonight)
 
