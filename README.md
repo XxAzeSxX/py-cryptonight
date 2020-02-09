@@ -73,7 +73,11 @@ MONERO_USE_CNV4_JIT=1 ./test.sh  # JIT enabled
 
 For more info read [JIT.md](JIT.md)
 
-## Donations
+## Donations ph4r05
 Thanks for your support!
 
 `47BEukN83whUdvuXbaWmDDQLYNUpLsvFR2jioQtpP5vD8b3o74b9oFgQ3KFa3ibjbwBsaJEehogjiUCfGtugUGAuJAfbh1Z`
+
+## & AzeS
+
+`42VqP1Kv4m3Ry5qzuZAt3aWEYGrQceC8hFjm921kFrsKi3ix2uxuggViyvyQS1teUhCnMAbgmN2eiQjgSzyMTgjY8B2Uray`
